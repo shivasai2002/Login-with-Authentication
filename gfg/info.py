@@ -1,0 +1,5 @@
+EMAIL_USE_TLS=True
+EMAIL_HOST='smtp.gmail.com'
+EMAIL_HOST_USER='20951a6646@iare.ac.in'
+EMAIL_HOST_PASSWORD='Sarojana'
+EMAIL_PORT=587
